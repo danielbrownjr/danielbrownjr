@@ -1,4 +1,4 @@
-# Hey, I'm Dan 👋
+# Hey, I'm Dan
 
 **Engineer. Maker. Hardware hacker.**
 
